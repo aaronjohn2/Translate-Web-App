@@ -5,7 +5,7 @@
 **Built a web page that:**
 
 * Ensures a secure Session mechanism.
-* Allows the user to submit a file (dictionary file) that contains English words of your choice and the direct translation in Latin. (Where the uploaded file has english word commma seperated with Latin word)
+* Allows the user to submit a file (dictionary file) that contains English words of your choice and the direct translation in Italian. (Where the uploaded file has English word commma seperated with Italian word)
 * Lets sign up and authenticate a User, allowing him/her/it to submit and then retrieve the model (that is, the translation of each individual word)
 * Lets input a text in a text box and apply a direct translation to it. Note: If the user didn't upload any file yet, it should translate with a build in translation model (aka, default translation).
 
