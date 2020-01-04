@@ -1,0 +1,12 @@
+word, parola
+girl, ragazza
+boy, ragazzo
+mother, madre
+father, padre
+vehicle, veicolo
+mountain, montagna
+bicycle, bicicletta
+school, scuola
+road, strada
+human, umana
+
